@@ -157,7 +157,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - Lua
 - Malbolge
 - Mathematica
-- ~~Matlabv
+- ~~Matlab~~
 - MeowScript
 - ~~Minecraft redstone~~
 - Minecraft mcfunction
