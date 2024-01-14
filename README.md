@@ -61,6 +61,8 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 
 ![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
 
+## «La générale Bourbaki aux commandes de la Force révolutionnaire du ruban jaune en marche vers Paris-XI» ｢布爾巴基將軍率黃絲革命軍向巴黎十一大前進｣
+
 ## The algorithm has been implemented in the following languages:
 
 - ABPLWNL
