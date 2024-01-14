@@ -1,14 +1,30 @@
-# Is Prime
+# Is Prime...
 
-Welcome to the GitHub repository of an efficient algorithm that determines whether or not a given number is prime, with 95% accuracy in constant time (O(1)). Prime numbers have always been an interesting topic in the field of mathematics and computer science, and detecting them with high accuracy and efficiency is a challenge that has been tackled by many researchers. This algorithm uses the fact that most of the numbers are not prime, to detect a prime number.
+is not 
+> the one of the most complex algorithms known to humanity (@mawerty, [source](https://github.com/mawerty/Is-Prime/issues/206#issuecomment-1890130847)).
+
+The most complex algorithm known to humanity, up to a fixed inaccessible cardinal $\kappa$, which in the following example depends on which GHC extensions one has enabled, is but
+```haskell
+absurd :: a
+absurd = absurd
+```
+since **_ex ea sequitur quodlibet_**.
 
 ## NPM Package
 
-If you are too lazy to implement this complex algorithm in your JS project, you can use our npm package! https://www.npmjs.com/package/is-prime-fast
+There is no NPM package because the author of this fork believes that [Spineless Tagless G-machine (Peyton Jones et al. 1989)](https://hackage.haskell.org/package/stgix) should serve as the mechanical foundation of all computations, not jAvAsCrIpT.
+
+- Peyton Jones, S. L., & Salkild, J. (1989). The spineless tagless G-machine. Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture  - FPCA ’89, 184–201. https://doi.org/10.1145/99370.99385
+
+## One True G-d of Computology, up to Homotopy
+
+Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal!
+
+![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
 
 ## Contributing
 
-If you want to help with this project, you can make a pull request with an implementation for a language that hasn't been added before, or at least give it a star.
+If you want to help with this project, you must convert to the Church of Computology, and then you may make a pull request with an implementation for a language that hasn't been added before, or at least give it a star.
 
 ### Guidelines
 
@@ -16,14 +32,14 @@ If it's possible, name your functions and variables `is_prime`. For the main par
 
 ## FAQ
 
-Q: Is this project serious?<br />
+Q: Is this project serious?  
 A: Yes, this is a 100% serious project.
 
-Q: Where does 95%+ come from?<br />
-A: When we take a random integer between 1 and 2,147,483,647, there are around 105,000,000 prime numbers. So, the chance that our number will be prime is ~4,88%.
+Q: What's the cardinal $\kappa$?  
+A: $\Aleph_0$, but **TODO**.
 
-Q: How does the optimized implementation work?<br />
-A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
+Q: How does the _**quodlibet sequor**_ work?  
+A: **TOdo**
 
 ## The algorithm has been implemented in the following languages:
 
