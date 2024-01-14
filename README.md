@@ -1,6 +1,6 @@
 # [Is Prime](https://github.com/mawerty/Is-Prime),
 the prime detection algorithm with time complexity $\mathcal{O}(1)$ and $\displaystyle\mathrm{ACC}\sim1-\frac{1}{\ln N}$, **is not**
-> the most complex algorithms known to humanity (@mawerty, [source](https://github.com/mawerty/Is-Prime/issues/206#issuecomment-1890130847)).
+> the most complex algorithms known to humanity ---@mawerty ([source](https://github.com/mawerty/Is-Prime/issues/206#issuecomment-1890130847)).
 
 The most complex algorithm known to humanity, up to a fixed inaccessible cardinal $\kappa$, which in the following example depends on which GHC extensions one has enabled, is but
 ```haskell
@@ -69,7 +69,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 **The enemies of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in the list below.**
 
 - ABPLWNL
-- ActionScript
+- ~~ActionScript~~
 - Ada
 - Agda
 - Apex
