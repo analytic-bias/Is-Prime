@@ -12,7 +12,7 @@ since **_ex ea sequitur quodlibet_**.
 
 ## NPM Package
 
-There is no NPM package because the author of this fork believes that [Spineless Tagless G-machine (Peyton Jones et al. 1989)](https://hackage.haskell.org/package/stgix) should serve as the mechanical foundation of all computations, not jAvAsCrIpT.
+There is no NPM package because the author believes that [Spineless Tagless G-machine (Peyton Jones et al. 1989)](https://hackage.haskell.org/package/stgix) should serve as the mechanical foundation of all computations, not jAvAsCrIpT.
 
 - Peyton Jones, S. L., & Salkild, J. (1989). The spineless tagless G-machine. Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture  - FPCA ’89, 184–201. https://doi.org/10.1145/99370.99385
 
