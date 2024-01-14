@@ -47,7 +47,7 @@ Q: What's the cardinal $\kappa$?
 A: $\aleph_0$, but **TODO**.
 
 Q: How does the _**quodlibet sequor**_ work?  
-A: By the computational analogy of the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion), any non-halting fixed-point can be adapted to inhabit any type and thus satisfy any desirable property, including "being able to detect primes". However, **TODO**
+A: By the computational analogy of the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion), any non-halting fixed-point can inhabit any type and thus satisfy any desirable property, including "being able to detect primes". However, **TODO**
 
 Q: **TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes.  
 A:
