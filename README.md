@@ -16,15 +16,9 @@ There is no NPM package because the author believes that [Spineless Tagless G-ma
 
 - Peyton Jones, S. L., & Salkild, J. (1989). The spineless tagless G-machine. Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture  - FPCA ’89, 184–201. https://doi.org/10.1145/99370.99385
 
-## One True G-d of Computology, up to Homotopy
-
-Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal!
-
-![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
-
 ## Contributing
 
-If you want to help with this project, you must convert to the Church of Computology, and then you may make a pull request with an implementation for a language that hasn't been added before, or at least give it a star.
+If you want to help with this project, you must convert to the [Church of Computology](#one-true-g-d-of-computology-up-to-homotopy), and then you may make a pull request with an implementation for a language that hasn't been added before, or at least give it a star.
 
 ### Guidelines
 
@@ -46,16 +40,26 @@ The file itself should be named `main.file_extension`. Also, when you add an imp
 Q: Is this project serious?  
 A: Yes, this is a 100% serious project.
 
+Q: Why should I care?  
+A: Because you should [fear](#one-true-g-d-of-computology-up-to-homotopy) our G-d of TRUTH (Trinity Realizable Up To Homotopy), for she never forgets her structures.
+
 Q: What's the cardinal $\kappa$?  
 A: $\aleph_0$, but **TODO**.
 
 Q: How does the _**quodlibet sequor**_ work?  
 A: By the computational analogy of the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion), any non-halting fixed-point can be adapted to inhabit any type and thus satisfy any desirable property, including "being able to detect primes". However, **TODO**
 
-**TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes. 
+Q: **TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes.  
+A:
 
 Q: How does the optimized implementation work?  
 A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
+
+## One True G-d of Computology, up to Homotopy
+
+Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory be upon our G-d of TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy.
+
+![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
 
 ## The algorithm has been implemented in the following languages:
 
