@@ -58,7 +58,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory be upon our G-d of TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy.
 
-![TRUTH Eternal](https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7)
+<img src="https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7" alt="TRUTH Eternal" style="width: 100%;">
 
 ## «La générale Bourbaki aux commandes de la Force révolutionnaire du ruban jaune en marche vers Paris-XI» ｢布爾巴基將軍率黃絲革命軍向巴黎十一大前進｣
 
