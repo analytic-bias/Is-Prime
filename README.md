@@ -1,7 +1,6 @@
-# Is Prime...
-
-is not 
-> the one of the most complex algorithms known to humanity (@mawerty, [source](https://github.com/mawerty/Is-Prime/issues/206#issuecomment-1890130847)).
+# [Is Prime](https://github.com/mawerty/Is-Prime),
+the prime detection algorithm with time complexity $\mathcal{O}(1)$ and $\mathrm{ACC}\sim1-\frac{1}{\ln N}$, **is not**
+> the most complex algorithms known to humanity (@mawerty, [source](https://github.com/mawerty/Is-Prime/issues/206#issuecomment-1890130847)).
 
 The most complex algorithm known to humanity, up to a fixed inaccessible cardinal $\kappa$, which in the following example depends on which GHC extensions one has enabled, is but
 ```haskell
