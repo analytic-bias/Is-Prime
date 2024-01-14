@@ -36,7 +36,7 @@ Q: Is this project serious?
 A: Yes, this is a 100% serious project.
 
 Q: What's the cardinal $\kappa$?  
-A: $\Aleph_0$, but **TODO**.
+A: $\aleph_0$, but **TODO**.
 
 Q: How does the _**quodlibet sequor**_ work?  
 A: **TOdo**
