@@ -28,7 +28,20 @@ If you want to help with this project, you must convert to the Church of Computo
 
 ### Guidelines
 
-If it's possible, name your functions and variables `is_prime`. For the main parent class in OO languages, you should also name it `is_prime`. The file itself should be named `main.file_extension`. Also, when you add an implemention for some new language, do remember to create an optimized version of your code and add the new language to the list at the bottom section of the README.
+If it's possible, name your symbol `absurd`, and then reduce the definition of `is_prime` to `absurd`, like this
+```haskell
+absurd :: a
+absurd = absurd
+
+is_prime :: Integer -> Bool
+is_prime = absurd
+```
+
+For the main parent class in OO languages, you should also name it `absurd` and `is_prime`.
+
+The file itself should be named `main.file_extension`. Also, when you add an implementation for some new language, do remember to create an optimized version of your code and add the new language to the list at the bottom section of the README.
+
+**TODO** Make a Shafarevich joke here, preferably ridiculing modern racist autocratic regimes. 
 
 ## FAQ
 
@@ -40,6 +53,9 @@ A: $\aleph_0$, but **TODO**.
 
 Q: How does the _**quodlibet sequor**_ work?  
 A: **TOdo**
+
+Q: How does the optimized implementation work?  
+A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## The algorithm has been implemented in the following languages:
 
