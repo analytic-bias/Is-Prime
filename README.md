@@ -67,6 +67,8 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 
 ## The algorithm has been implemented in the following languages:
 
+**The enemy of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in the list below.**
+
 - ABPLWNL
 - ActionScript
 - Ada
@@ -82,7 +84,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - Atto-8
 - AWK
 - Bash
-- BASIC
+- ~~BASIC~~
 - Bc
 - Beef
 - Binary
@@ -94,9 +96,9 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - CLIPS
 - Claire
 - Clojure
-- CoffeeScript
-- CommonJS
-- COBOL
+- ~~CoffeeScript~~
+- ~~CommonJS~~
+- ~~COBOL~~
 - Chef
 - Coq
 - COW
@@ -104,7 +106,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - CSS
 - CUDA
 - C++
-- C#
+- ~~C#~~
 - D
 - Dafny
 - Dart
@@ -122,8 +124,8 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - Farsi (Persian)
 - Fish
 - FORTH
-- FORTRAN 77
-- Fortran 95
+- ~~FORTRAN 77~~
+- ~~Fortran 95~~
 - FStar
 - GDScript
 - German
@@ -140,12 +142,12 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - HTML
 - Intercal
 - JamogusLamogusAmogus
-- Java
-- JavaScript
-- JavaScript XML
+- ~~Java~~
+- ~~JavaScript~~
+- ~~JavaScript XML~~
 - JSON
 - Julia
-- Kotlin
+- ~~Kotlin~~
 - LaTeX
 - Latin
 - Latvian
@@ -155,9 +157,9 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - Lua
 - Malbolge
 - Mathematica
-- Matlab
+- ~~Matlabv
 - MeowScript
-- Minecraft redstone
+- ~~Minecraft redstone~~
 - Minecraft mcfunction
 - ModuleJS
 - Mojo
@@ -171,17 +173,17 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - Nim
 - Pascal
 - Perl
-- PHP
+- ~~PHP~~
 - Pony
 - PureScript
 - Piet
 - PL/SQL
 - Portuguese
 - PostgreSQL
-- Powershell
+- ~~Powershell~~
 - Processing
 - Prolog
-- Python
+- ~~Python~~
 - q
 - Q#
 - R
@@ -203,30 +205,30 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - STEP-7 AWL
 - SQL
 - Squirrel
-- Swift
+- ~~Swift~~
 - SystemVerilog
 - Tcl
 - Terraform
 - Thue
 - Toit
 - TrumpScript
-- TypeScript
+- ~~TypeScript~~
 - Unreal-Engine Blueprints
 - UwU
 - V
 - V3D
 - Vala
 - VHDL
-- VisualBasic
+- ~~VisualBasic~~
 - Vietnamese
-- Vimscript
+- ~~Vimscript~~
 - WebAssembly
 - Wenyan
 - Whitespace
 - X++
 - Zig
 - Mira
-- LabVIEW
+- ~~LabVIEW~~
 - Circuit
 - @everyone
 - 9f87m4atttaaaou;
