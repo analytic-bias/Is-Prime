@@ -41,8 +41,6 @@ For the main parent class in OO languages, you should also name it `absurd` and 
 
 The file itself should be named `main.file_extension`. Also, when you add an implementation for some new language, do remember to create an optimized version of your code and add the new language to the list at the bottom section of the README.
 
-**TODO** Make a Shafarevich joke here, preferably ridiculing modern racist autocratic regimes. 
-
 ## FAQ
 
 Q: Is this project serious?  
@@ -53,6 +51,8 @@ A: $\aleph_0$, but **TODO**.
 
 Q: How does the _**quodlibet sequor**_ work?  
 A: **TOdo**
+
+**TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes. 
 
 Q: How does the optimized implementation work?  
 A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
