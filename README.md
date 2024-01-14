@@ -67,7 +67,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 
 ## The algorithm has been implemented in the following languages:
 
-**The enemy of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in the list below.**
+**The enemies of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in the list below.**
 
 - ABPLWNL
 - ActionScript
@@ -131,7 +131,7 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 - German
 - Gleam
 - GO
-- GoogleScript
+- ~~GoogleScript~~
 - Groot
 - Groovy
 - GSC
