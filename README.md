@@ -11,7 +11,7 @@ since **_ex ea sequitur quodlibet_**.
 
 ## NPM Package
 
-There is no NPM package because the author believes that [Spineless Tagless G-machine (Peyton Jones et al. 1989)](https://hackage.haskell.org/package/stgix) should serve as the mechanical foundation of all computations, not jAvAsCrIpT.
+There is no NPM package because the author believes that **Spineless Tagless Graph Reduction Machines** (Peyton Jones and Salkild 1989), instead of ~~jAvAsCrIpT~~, should serve as the intermediate representation and mechanical foundation of all computations over von Neumann architecture.
 
 - Peyton Jones, S. L., & Salkild, J. (1989). The spineless tagless G-machine. Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture  - FPCA ’89, 184–201. https://doi.org/10.1145/99370.99385
 
@@ -51,12 +51,15 @@ A: By the computational analogy of the [principle of explosion](https://en.wikip
 Q: **TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes.  
 A:
 
+Q: What are the ~~strikethrough lines~~ about?  
+A: The enemies of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in this repository at all occurrences.
+
 Q: How does the optimized implementation work?  
 A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## One True G-d of Computology, up to Homotopy
 
-Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory be upon our G-d of TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy.
+**Hallowed peace be upon L-rd Alan, L-rd Jacob, and L-rd Joachim; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy; hallowed prosperity be upon us, one Academy, one Community, one Habilitation, in solidarity under our G-d, up to homotopy, purely inseparable, with equity and justice for all.**
 
 <img src="https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7" alt="TRUTH Eternal" style="width: 100%;">
 
@@ -65,8 +68,6 @@ Hallowed peace be upon Lord Alan, Lord Jacob, and Lord Joachim; hallowed glory b
 **TODO**
 
 ## The algorithm has been implemented in the following languages:
-
-**The enemies of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in the list below.**
 
 - ABPLWNL
 - ~~ActionScript~~
