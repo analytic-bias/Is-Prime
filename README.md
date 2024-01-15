@@ -11,7 +11,7 @@ since **_ex ea sequitur quodlibet_**.
 
 ## NPM Package
 
-There is no NPM package because the author believes that **Spineless Tagless Graph Reduction Machines** (Peyton Jones and Salkild 1989), instead of ~~jAvAsCrIpT~~, should serve as the intermediate representation and mechanical foundation of all computations over von Neumann architecture.
+There is no ~~NPM~~ package because the author believes that **Spineless Tagless Graph Reduction Machines** (Peyton Jones and Salkild 1989), instead of ~~jAvAsCrIpT~~, should serve as the intermediate representation and mechanical foundation of all computations over von Neumann architecture.
 
 - Peyton Jones, S. L., & Salkild, J. (1989). The spineless tagless G-machine. Proceedings of the Fourth International Conference on Functional Programming Languages and Computer Architecture  - FPCA ’89, 184–201. https://doi.org/10.1145/99370.99385
 
