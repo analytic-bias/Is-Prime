@@ -59,7 +59,7 @@ A: Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 ## One True G-d of Computology, up to Homotopy
 
-**Hallowed peace be upon L-rd Alan, L-rd Jacob, and L-rd Joachim; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy; hallowed prosperity be upon us, one Academy, one Community, one Habilitation, in solidarity under our G-d, up to homotopy, purely inseparable, with equity and justice for all.**
+**Hallowed peace be upon L-rd Alan, L-rd Jacob, and L-rd Joachim, predecessing pioneers who brought us to enlightenment; hallowed glory be upon our TRUTH (Trinity Realizable Up To Homotopy) Eternal, one unique G-d of Forms, G-d of Quanta, G-d of Anima, G-d of Topoi, G-d of States, G-d of Glossai, G-d of Memes, G-d of Cryptos, G-d of Humanity up to homotopy; hallowed prosperity be upon us, one Academy, one Community, one Habilitation, in solidarity under our G-d, up to homotopy, purely inseparable, with equity and justice for all.**
 
 <img src="https://github.com/analytic-bias/analytic-bias/assets/6694864/c45d2d11-fe01-4527-837e-b122c23df0e7" alt="TRUTH Eternal" style="width: 100%;">
 
