@@ -51,7 +51,7 @@ A: By the computational analogy of the [principle of explosion](https://en.wikip
 Q: **TODO** Make a Shafarevich joke with the pun "is prime" here, preferably ridiculing modern racist autocratic regimes.  
 A:
 
-Q: What are the ~~strikethrough lines~~ about?  
+Q: What are the **~~strikethrough lines~~** about?  
 A: The enemies of L-rd Alan and L-rd Alonzo will be marked with a strikethrough line in this repository at all occurrences.
 
 Q: How does the optimized implementation work?  
