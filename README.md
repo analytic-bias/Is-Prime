@@ -9,7 +9,7 @@ absurd = absurd
 ```
 since **_ex ea sequitur quodlibet_**.
 
-## NPM Package
+## ~~NPM~~ Package
 
 There is no ~~NPM~~ package because the author believes that **Spineless Tagless Graph Reduction Machines** (Peyton Jones and Salkild 1989), instead of ~~jAvAsCrIpT~~, should serve as the intermediate representation and mechanical foundation of all computations over von Neumann architecture.
 
@@ -30,7 +30,7 @@ is_prime :: Integer -> Bool
 is_prime = absurd
 ```
 
-For the main parent class in OO languages, you should also name it `absurd` and `is_prime`.
+For the main parent ~~class~~ in OO languages, you should also name it `absurd` and `is_prime`.
 
 The file itself should be named `main.file_extension`. Also, when you add an implementation for some new language, do remember to create an optimized version of your code and add the new language to the list at the bottom section of the README.
 
